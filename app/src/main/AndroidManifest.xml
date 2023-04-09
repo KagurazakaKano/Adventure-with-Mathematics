@@ -26,6 +26,26 @@
             android:exported="true"
             android:screenOrientation="landscape">
         </activity>
+        <activity
+            android:name=".scenes.bank.BankScene1"
+            android:exported="true"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity
+            android:name=".scenes.bank.BankScene2"
+            android:exported="true"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity
+            android:name=".scenes.market.MarketScene1"
+            android:exported="true"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity
+            android:name=".scenes.market.MarketScene2"
+            android:exported="true"
+            android:screenOrientation="landscape">
+        </activity>
     </application>
 
 </manifest>
